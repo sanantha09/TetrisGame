@@ -1,2 +1,2 @@
 # TetrisGame
-C#
+Tetris Game using programmin language C#
