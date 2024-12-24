@@ -1,2 +1,2 @@
 # TetrisGame
-Programming a tetris game using C#
+Programming a Tetris Game using C#
